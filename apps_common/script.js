@@ -1,4 +1,5 @@
 //// apps.fi script
+//// apps.financializer.com/apps_common/script.js
 /////////  vars 
 if (typeof siteSection == "undefined") {
 	siteSection = "main";
